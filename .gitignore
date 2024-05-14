@@ -1,5 +1,6 @@
 
-build/
-out/
-nbproject/
-test/
+/build/
+/out/
+/nbproject/
+/test/
+/.idea/
